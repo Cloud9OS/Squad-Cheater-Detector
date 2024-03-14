@@ -1,0 +1,7 @@
+	{
+	  "plugin": "DiscordCheaterDetector",
+	  "enabled": true,
+	  "discordClient": "discord",
+	  "channelID": "1205737930493009961",
+	  "color": 16711680
+	},
